@@ -7,5 +7,5 @@ To get started with GeneGuru, follow these steps:
 1. Clone this repository using Git:
 ```bash
 
-git clone https://github.com/[your_username]/GeneGuru.git
+git clone https://github.com/alirazi1992/GeneGuru.git
 
